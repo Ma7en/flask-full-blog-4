@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLLs
+__pycache__/
+*.py[cod]
+*$py.class
+migrations
+migrations/
+instance
+instance/
+database.db
+
+
+# Distribution / packaging
+.egg-info/
+.dist/
+.build/
+docs/_build/
+notes
+notes/
+note/
+wvenv
+wvenv/
+venv
+venv/
+myvenv
+myvenv/
+
+ 
+# Local configuration
+*.swp
+.DS_Store
+.idea
