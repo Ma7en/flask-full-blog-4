@@ -373,7 +373,7 @@ flask db init
 ```
 
 ```
-flask db migrate -m 'create blog db'
+flask db migrate -m "create blog db"
 ```
 
 ```
@@ -383,7 +383,7 @@ flask db upgrade
 `Step 8` : Run Server.
 
 ```
-set FLASK_APP=blog
+set FLASK_APP=app
 ```
 
 ```
