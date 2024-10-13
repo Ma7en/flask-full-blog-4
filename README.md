@@ -426,7 +426,7 @@ Technologies used in the project:
 
 ---
 
-<p align="left"><img src="https://profile-counter.glitch.me/iti-final-project-babackend/count.svg" alt="desphixs" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/flask-full-blog-4/count.svg" alt="desphixs" /></p>
 
 ---
 
